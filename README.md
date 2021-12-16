@@ -1,1 +1,2 @@
-# DSA
+install node.
+run node <Filename> 
